@@ -11,13 +11,16 @@
   "dependencies": {
     "@avail-project/nexus-core": "^0.0.1",
     "@avail-project/nexus-widgets": "^0.0.5",
+    "@rainbow-me/rainbowkit": "^2.2.9",
+    "@tanstack/react-query": "^5.90.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.546.0",
     "next": "15.5.5",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "tailwind-merge": "^3.3.1"
+    "tailwind-merge": "^3.3.1",
+    "wagmi": "^2.18.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
